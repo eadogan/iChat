@@ -1,8 +1,12 @@
 const express = require('express')
-require('mongoose')
+const path = require('path')
+
+const publicDirectoryPath = path.join(__dirname, '../public')
 
 const app = express()
 
+
 app.use(express.json())
+app.use(express.static(publicDirectoryPath))
 
 module.exports = app
