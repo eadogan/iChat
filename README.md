@@ -1,7 +1,7 @@
 # iChat
 live chat/stream
 
-Try with Heroku - [iChat](https://ichat-app-v1.herokuapp.com/)
+Try with Heroku live app - [iChat](https://ichat-app-v1.herokuapp.com/)
 
 This app allows 'live chat/stream'
 
@@ -15,11 +15,11 @@ CLIENT_SECRET=<br />
 
 ## Running the application
 ```
-* Install package.json's libraries
-## npm install
+ Install package.json's libraries
+..$ npm install
 
-* Call rest end point: http://localhost:3000
-## npm run dev
+ Call rest end point: http://localhost:3000
+..$ npm run dev
 ```
 
 ## About
