@@ -1,7 +1,7 @@
 # iChat
 live chat/stream
 
-Try with Heroku https://ichat-app-v1.herokuapp.com/
+Try with Heroku - [iChat](https://ichat-app-v1.herokuapp.com/)
 
 This app allows 'live chat/stream'
 
@@ -24,4 +24,4 @@ Rest End point: http://localhost:3000
 This app uses Node JS
 
 ## Production Link on Heroku
-[ichat-app](https://ichat-app-v1.herokuapp.com/)
+[iChat-app](https://ichat-app-v1.herokuapp.com/)
