@@ -9,16 +9,15 @@ This app allows 'live chat/stream'
 Create config .env file
 
 ## Add a .env file and add below information
+PORT=
 CLIENT_ID=
 CLIENT_SECRET=
-PORT=
 
 ## npm install
 Install all package.json libraries
 
 ## npm run dev
 Rest End point: http://localhost:3000
-
 
 ## About
 This app uses Node JS
