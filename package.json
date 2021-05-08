@@ -1,0 +1,26 @@
+{
+  "name": "ichat",
+  "version": "1.0.0",
+  "description": "live chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "env-cmd -f ./config/dev.env nodemon src/index.js"
+  },
+  "keywords": [
+    "chat",
+    "ichat"
+  ],
+  "author": "only me :)",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "socket.io": "^4.0.2"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
