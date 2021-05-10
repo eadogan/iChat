@@ -1,9 +1,9 @@
 # iChat
-live chat/stream
+live chat 
 
 Try with Heroku live app - [iChat](https://ichat-app-v1.herokuapp.com/)
 
-This app allows 'live chat/stream'
+This app allows 'live chat'
 
 ## Run locally
 Create config .env file
